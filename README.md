@@ -1,3 +1,4 @@
 # Travelmantics
 
-##
+## Author
+-- Oluwafemi Akinwa
